@@ -47,7 +47,7 @@ le site devrait fonctionner.
 
 ## A améliorer
 Voici une liste non exhaustive de fonctionnalités à ajouter/améliorer :
-- Sécurisation du JavaScript : il est bien trop facile de s'ajouter des points facilement
+- Sécurisation du JavaScript : il est bien trop facile de s'ajouter des points sans regarder la vidéo
 - Editeur d'article plus complet afin d'avoir des articles avec une belle mise en page.
 - Développement d'une régie publiciataire (ou utilisation de celle de Google) afin d'ajouter des points après avoir vu une pub.
 
