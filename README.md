@@ -22,7 +22,7 @@ En plus des droits de l'administrateurs, ces derniers peuvent bannir des personn
 
 
 ### Contexte de création
-Site web d'informations réalisé pour le projet d'IO2 (matière en licence 1 d'informatique à l'université Paris Diderot (Paris 7))
+Site web d'informations réalisé pour le projet d'IO2 (Informatique et Outils du Numérique, matière en licence 1 d'informatique à l'université Paris Diderot (Paris 7))
 lors duquel j'ai eu la note de 20/20. Ce projet était à faire par groupe de 2 personnes.
 
 
@@ -47,7 +47,7 @@ le site devrait fonctionner.
 
 ## A améliorer
 Voici une liste non exhaustive de fonctionnalités à ajouter/améliorer :
-- Sécurisation du JavaScript : il est bien trop facile de s'ajouter des points sans regarder la vidéo
+- Sécurisation du JavaScript : il est bien trop facile de s'ajouter des points sans regarder la vidéo.
 - Editeur d'article plus complet afin d'avoir des articles avec une belle mise en page.
 - Développement d'une régie publiciataire (ou utilisation de celle de Google) afin d'ajouter des points après avoir vu une pub.
 
