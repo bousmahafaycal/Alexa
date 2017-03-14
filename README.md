@@ -26,7 +26,7 @@ Site web d'informations réalisé pour le projet d'IO2 (Informatique et Outils d
 lors duquel j'ai eu la note de 20/20. Ce projet était à faire par groupe de 2 personnes.
 
 
-Je me suis occupé de la conception du site et de la base de données, de la réalisation du javascript et de la grande majorité du PHP/HTML. 
+Je me suis occupé de la conception (visuelle et fonctionnelle) du site et de la base de données, de la réalisation du javascript et de la grande majorité du PHP/HTML. 
 Pendant, ce temps la, mon camarade s'est occupé du CSS, des logos et des pages en PHP montrant tous les articles du sites et celles montrant les articles selon une catégorie donnée.
 
 
